@@ -1,6 +1,6 @@
 # PHYS220 CW 10 
 
-**Author(s):** **Baylee Mumma, Christine Outlaw, Kristen Peet**
+**Author(s):** Baylee Mumma, Christine Outlaw, Kristen Peet
 
 [![Build Status](https://travis-ci.org/chapman-phys220-2017f/cw-10-christine-baylee-kristen.svg?branch=master)](https://travis-ci.org/chapman-phys220-2017f/cw-10-christine-baylee-kristen)
 
@@ -16,7 +16,7 @@ Pro-tip: using git to manage conflicts on Jupyter notebooks is a pain. I recomme
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
 
-**Baylee Mumma, Christine Outlaw, Kristen Peet**
+While it was interesting to use the Monte Carlo technique, I don't think we'll use it in the future.
 
 ## Honor Pledge
 
@@ -27,4 +27,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**Baylee Mumma, Christine Outlaw, Kristen Peet**
+Baylee Mumma, Christine Outlaw, Kristen Peet
