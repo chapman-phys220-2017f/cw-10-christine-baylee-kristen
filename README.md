@@ -1,8 +1,7 @@
 # PHYS220 CW 10 
 
-**Author(s):** **CHANGEME**
-
-[![Build Status](https://travis-ci.org/chapman-phys220-2017f/cw-10-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-phys220-2017f/cw-10-YOURNAME)
+**Author(s):** Christine Outlaw, Baylee Mumma
+[![Build Status](https://travis-ci.org/chapman-phys220-2017f/cw-10-christine-baylee-kristen.svg?branch=master)](https://travis-ci.org/chapman-phys220-2017f/cw-10-christine-baylee-kristen)
 
 ## Specification
 
